@@ -1,5 +1,10 @@
 # footballdata-api-js
 
+> NodeJS wrapper for the football-data.org JSON API. Not meant to be full-featured at the point.
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
+
+
 ## Installation
 
 ```bash
