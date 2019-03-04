@@ -25,5 +25,8 @@
   "scripts": {
     "build": "babel lib --out-dir dist",
     "prepublish": "yarn build"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
   }
 }
